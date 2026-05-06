@@ -1,7 +1,7 @@
 {
-  "name": "claude-themes",
+  "name": "claude-code-themes",
   "owner": {
-    "name": "karim"
+    "name": "kamegg"
   },
   "plugins": [
     {

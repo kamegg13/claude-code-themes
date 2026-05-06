@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "20 thèmes dark Claude Code portés depuis les configs Ghostty les plus populaires.",
   "author": {
-    "name": "karim"
+    "name": "kamegg",
+    "url": "https://github.com/kamegg13"
   },
+  "repository": "https://github.com/kamegg13/claude-code-themes",
   "license": "MIT",
   "keywords": [
     "themes",

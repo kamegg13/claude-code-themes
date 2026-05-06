@@ -7,7 +7,7 @@ Marketplace public de thèmes Claude Code, portés depuis les configurations [Gh
 Dans Claude Code (v2.1.118+) :
 
 ```
-/plugin marketplace add karim/claude-themes
+/plugin marketplace add kamegg13/claude-code-themes
 /plugin install ghostty-popular@claude-themes
 ```
 
