@@ -1,0 +1,14 @@
+{
+  "name": "claude-themes",
+  "owner": {
+    "name": "karim"
+  },
+  "plugins": [
+    {
+      "name": "ghostty-popular",
+      "source": "./plugins/ghostty-popular",
+      "description": "20 thèmes dark Claude Code portés depuis les configs Ghostty les plus populaires (Catppuccin, TokyoNight, Gruvbox, Nord, Cyberdream, Aura…).",
+      "version": "1.0.0"
+    }
+  ]
+}

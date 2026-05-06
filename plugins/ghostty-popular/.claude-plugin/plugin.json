@@ -1,0 +1,19 @@
+{
+  "name": "ghostty-popular",
+  "version": "1.0.0",
+  "description": "20 thèmes dark Claude Code portés depuis les configs Ghostty les plus populaires.",
+  "author": {
+    "name": "karim"
+  },
+  "license": "MIT",
+  "keywords": [
+    "themes",
+    "dark",
+    "ghostty",
+    "tokyonight",
+    "catppuccin",
+    "gruvbox",
+    "nord"
+  ],
+  "themes": "./themes/"
+}
